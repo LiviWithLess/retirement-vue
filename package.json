@@ -1,0 +1,19 @@
+{
+  "name": "retirement-vue",
+  "version": "1.0.0",
+  "description": "thing to help me learn vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiviWithLess/retirement-vue.git"
+  },
+  "author": "LiviWithLess",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiviWithLess/retirement-vue/issues"
+  },
+  "homepage": "https://github.com/LiviWithLess/retirement-vue#readme"
+}
